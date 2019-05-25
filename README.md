@@ -1,2 +1,1 @@
-# VREP-Quadruped-Robot
-Simulation
+# VREP_Quadruped_Robot
